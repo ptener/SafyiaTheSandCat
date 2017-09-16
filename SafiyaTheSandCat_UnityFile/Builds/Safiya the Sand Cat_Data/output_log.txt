@@ -1,0 +1,70 @@
+Mono path[0] = 'C:/Users/patri/Desktop/Classes/Games/SafiyaTheSandCat/Builds/Safiya the Sand Cat_Data/Managed'
+Mono path[1] = 'C:/Users/patri/Desktop/Classes/Games/SafiyaTheSandCat/Builds/Safiya the Sand Cat_Data/Mono'
+Mono config path = 'C:/Users/patri/Desktop/Classes/Games/SafiyaTheSandCat/Builds/Safiya the Sand Cat_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/patri/Desktop/Classes/Games/SafiyaTheSandCat/Builds/Safiya the Sand Cat_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55054
+Multi-casting "[IP] 149.162.168.82 [Port] 55054 [Flags] 2 [Guid] 2374146424 [EditorId] 1203083247 [Version] 1048832 [Id] WindowsPlayer(MSI) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55054]
+PlayerConnection already initialized - listening to [0.0.0.0:55054]
+Player data archive not found at `C:/Users/patri/Desktop/Classes/Games/SafiyaTheSandCat/Builds/Safiya the Sand Cat_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\patri\Desktop\Classes\Games\SafiyaTheSandCat\Builds\Safiya the Sand Cat_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x720 48Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.713379 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.893217 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 0.528196 ms (FindLiveObjects: 0.098765 ms CreateObjectMapping: 0.037925 ms MarkObjects: 0.356344 ms  DeleteObjects: 0.033975 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.456884 ms
+System memory in use before: 19.7 MB.
+System memory in use after: 19.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2754.
+Total: 0.837134 ms (FindLiveObjects: 0.168295 ms CreateObjectMapping: 0.063604 ms MarkObjects: 0.546369 ms  DeleteObjects: 0.057283 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.764435 ms
+System memory in use before: 19.7 MB.
+System memory in use after: 19.8 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2754.
+Total: 0.788146 ms (FindLiveObjects: 0.166320 ms CreateObjectMapping: 0.063604 ms MarkObjects: 0.547554 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.352781 ms
+System memory in use before: 18.2 MB.
+System memory in use after: 18.2 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.479208 ms (FindLiveObjects: 0.024098 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.218863 ms  DeleteObjects: 0.208197 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1a30 -> priority: 1 
+  Thread -> id: 10e0 -> priority: 1 
+  Thread -> id: 1600 -> priority: 1 
+  Thread -> id: 2e2c -> priority: 1 
